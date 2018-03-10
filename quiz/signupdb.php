@@ -73,7 +73,7 @@ if (mysqli_query($conn,$sql) === TRUE) {
         header("Location: http://localhost/quiz/pages/profile.php");
 } else {
     session_destroy();
-    header("Location: http://localhost/quiz/pages/profile.php");
+    header("Location: http://localhost/quiz/signup.php");
 }
 
 
