@@ -1,0 +1,57 @@
+#body{
+    background-color:#ffffcc;
+    margin: .5%;
+}
+
+.form-control{
+    width:40%;
+}
+
+.modal-body{
+    color:#990000;
+}
+.navbar,.modal-header,.modal-footer{
+    background-color:#990000;
+    border-color:#990000;
+}
+
+.modal-body{
+    background-color:#ffffcc;
+}
+#a{
+    color:white;
+}
+#a:hover{
+    color:#ff9999;
+}
+
+.container_img{
+
+    width:80%;
+    margin:0 auto;
+}
+
+#img{
+    width:100%;
+}
+
+.carousel .item {
+    height: 500px;
+}
+
+#myCarousel{
+     margin-top:2%;
+    border: 0px solid #990000;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+}
+
+#li1{
+    border-color:#990000;
+    background-color:#990000;
+    width:95%;
+    border-radius:10px;
+    text-align:center;
+    font-size:100%;
+    font-family:Copperplate Gothic Bold;
+}
+

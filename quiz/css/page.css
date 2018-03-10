@@ -1,0 +1,61 @@
+#mySidenav{
+	background-color: #990000;
+	width:15%;
+	margin-top:1%;
+}
+
+h2
+{
+	color:#990000;
+}
+
+
+#div1{ 
+    width:72%;
+    margin-top:-30%;
+    margin-left:23%;
+    
+ 
+}
+
+#body{
+    background-color:#ffffcc;
+    margin: 0.5%;
+}
+
+.navbar{
+    background-color:#990000;
+    border-color:#990000;
+}
+
+#a{
+    color:white;
+}
+#a1{
+    color:white;
+}
+#current{
+    color:#ffff99;
+}
+
+.sidenav a {
+    padding: 10%;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 1.0s;
+}
+
+.sidenav #a:hover {
+    color: #ffff99;
+}
+
+
+
+
+
+
+
+
+

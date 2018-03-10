@@ -1,0 +1,65 @@
+#body{
+    background-color:#ffffe6;
+}
+
+.modal-body{
+    color:#990000;
+}
+.navbar,.modal-header,.modal-footer{
+    background-color:#990000;
+    border-color:#990000;
+}
+
+body {
+    margin: 0.5%;
+}
+
+#quiz{
+
+    background-color: #ffffcc;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+}
+input{
+    margin-left:5%;
+}
+
+
+#submit
+{
+    background-color:#990000;
+    width:25%;
+    color:white;
+    margin-left:35%;
+    height:10%;
+}
+
+#hr
+{
+
+    border-color:#990000;
+}
+
+
+
+label
+{
+    color:#990000;
+}
+
+h4
+{
+    color:#990000;
+    text-align:center;
+}
+
+
+#form label.error
+{
+
+    color:red;
+    font-size:20px;
+}
+
+#question{
+    width:90%;
+}
